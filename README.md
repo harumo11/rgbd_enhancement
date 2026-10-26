@@ -11,7 +11,7 @@ This repository is for research of depth enhancement.
 **Warn** The following installation command will install datasets and models. They are may heavy. Take care your PC disk usage.
 
 ```
-git clone xxx
+git clone git@github.com:harumo11/rgbd_enhancement.git
 ```
 
 
